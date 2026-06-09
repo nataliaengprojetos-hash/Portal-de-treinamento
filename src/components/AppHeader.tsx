@@ -1,5 +1,5 @@
 import { ChevronLeft, Globe, User } from 'lucide-react';
-import logoPernambuco from '../assets/adm.png';
+import logoPernambuco from '../assets/Adm.png';
 import { useNavigate } from 'react-router-dom';
 
 interface AppHeaderProps {
