@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { X, Plus, Upload, Video, FileText, Clock, Layers } from 'lucide-react';
+import { X, Plus, Upload, Video, FileText } from 'lucide-react';
 import type { ContentItem } from '../../types';
 
 interface Props {
